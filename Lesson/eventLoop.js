@@ -34,7 +34,7 @@ setTimeout(() => {
     console.log("TIMEOUT")
 }, 0);
 
-console.log("END")
+console.log("END 💁🏼 ")
 
 
 
